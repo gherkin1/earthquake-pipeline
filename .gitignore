@@ -5,9 +5,6 @@
 cron.log
 logs/
 
-# Local data (you mount ./data into the container)
-data/
-
 # Python
 __pycache__/
 *.pyc
