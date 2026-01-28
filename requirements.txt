@@ -1,0 +1,12 @@
+requests
+pandas
+datetime
+schedule
+requests_cache
+retry_requests
+requests
+openmeteo_requests
+SQLAlchemy
+pymysql
+dotenv
+cryptography
